@@ -1,0 +1,16 @@
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\bin\Debug\net5.0\Projectweekend1706.exe
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\bin\Debug\net5.0\Projectweekend1706.deps.json
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\bin\Debug\net5.0\Projectweekend1706.runtimeconfig.json
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\bin\Debug\net5.0\Projectweekend1706.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\bin\Debug\net5.0\Projectweekend1706.dll
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\bin\Debug\net5.0\ref\Projectweekend1706.dll
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\bin\Debug\net5.0\Projectweekend1706.pdb
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.dll
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\ref\Projectweekend1706.dll
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.pdb
+C:\Users\Administrateur\source\repos\projetweekend1706\Projectweekend1706\obj\Debug\net5.0\Projectweekend1706.genruntimeconfig.cache
